@@ -1,0 +1,8 @@
+2025-11-17,Banana,120,Breakfast
+2025-11-17,Banana,120,Breakfast
+2025-11-17,Rice,250,Lunch
+2025-12-22,Monday,banana,34,120,
+2025-11-29,Saturday,oiw,2,0,qweoij
+2025-12-01,Monday,apple,25,200,fruit
+2025-12-01,Monday,apple,20,111,sex
+2025-12-03,Wednesday,apple,20,200,fruit
